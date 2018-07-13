@@ -1,0 +1,15 @@
+Linus Torvalds  created git in 2005 ( probably in 3 months)
+Github-Web based git repository (free service offered by git) (alternate, set up git in personal server)(BitBucket: allows free private repositories (limit on no of users collaboratign); (GitLab: private hosting on personal/azure server) 
+Mercurial- Git alternative
+
+
+GIT- Distributed version control system. (DVCS-copy of the repo in laptops, mercurial also DVCS)
+SVN- vcs; only working repo is coped; parallel in nature
+GIT: if one file nt changed in neew version, only pointer to old code is stored, in newer versions smart compression is done to reduce the size.
+GIT gui - sourcetree, gitcracken
+ 
+popular iDEs have git plugins for comapring
+
+autocrlf:true in .gitconfig file : checkout windows style, commit(download) unix style
+
+git settings: folders specific (project level); global level, system level
