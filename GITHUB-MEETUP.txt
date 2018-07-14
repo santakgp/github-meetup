@@ -14,4 +14,4 @@ popular iDEs have git plugins for comapring
 autocrlf:true in .gitconfig file : checkout windows style, commit(download) unix style
 
 git settings: folders specific (project level); global level, system level
-//checking merge
+//checking merge 2
